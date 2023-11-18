@@ -6,6 +6,7 @@
         "7c7200c0-9e25-4d6f-8e80-68098f92561e": {
           "type": "slide",
           "settings": {
+            "img_mobile": "shopify:\/\/shop_images\/Gray_Green_Minimalist_Alone_Desktop_Wallpaper.png",
             "img_mobile_height": 500,
             "img_mobile_opacity": 0.7,
             "img_desktop_height": 800,
